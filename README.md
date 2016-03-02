@@ -10,8 +10,8 @@ The Android app allows you to connect bluz to the cloud and claim your device. I
 
 ###Installation
 1. Open this website on your Android phone
-2. Click View Code, then click on the folder bluz_0.9.0
-3. Click on the file bluz_0.9.0.apk. Your phone will download this file
+2. Click View Code, then click on the folder bluz_0.9.1
+3. Click on the file bluz_0.9.1.apk. Your phone will download this file
 4. Depending on your manufacturer, you can access the file directly from the Notification drop-down or in your Downloads app. Click on the file and you should be prompted to install the app
 
 ###Using the App
